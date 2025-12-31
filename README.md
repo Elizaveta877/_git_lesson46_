@@ -36,5 +36,5 @@ Bash
 
 npm run dev
 ## 🚀 Демо-версія
-
+git-lesson46.vercel.app
 -
